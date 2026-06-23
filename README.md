@@ -1,3 +1,3 @@
-# test-dev-agent
+# Test Dev Agent
 
-This is a test repository for a dev agent.
+This is a test repository for the dev agent.
