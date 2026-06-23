@@ -1,0 +1,4 @@
+# Created by test-dev-agent
+node_modules/
+coverage/
+package-lock.json
